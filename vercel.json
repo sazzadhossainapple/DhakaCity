@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/dhaka-city-area", "destination": "/api/dhaka-city-area" }
+    ]
+  }
+  
